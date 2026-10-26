@@ -1,0 +1,9 @@
+cost_center,cost_center_name,department,location,manager
+CC100,Sales DACH,Sales,Berlin,K. Schneider
+CC110,Sales International,Sales,Hamburg,L. Weber
+CC200,Production,Operations,Leipzig,M. Fischer
+CC210,Quality & Service,Operations,Leipzig,S. Wagner
+CC300,Marketing,Marketing,Berlin,A. Becker
+CC400,IT,Admin,Berlin,J. Hoffmann
+CC500,Finance & HR,Admin,Berlin,T. Schulz
+CC600,Management,Admin,Berlin,P. Koch

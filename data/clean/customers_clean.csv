@@ -1,0 +1,26 @@
+customer_id,customer_name,country,segment,payment_terms_days,credit_limit_eur
+C1001,Volkswagen Zulieferung,DE,Automotive,60,500000
+C1002,BASF Logistik,DE,Automotive,30,500000
+C1003,Krones AG,DE,Agriculture,30,100000
+C1004,Claas KGaA,DE,Automotive,45,250000
+C1005,Liebherr Werk Ehingen,DE,Industrial,60,100000
+C1006,Trumpf GmbH,DE,Agriculture,30,100000
+C1007,Festo SE,DE,Agriculture,30,250000
+C1008,Kärcher GmbH,DE,Agriculture,30,100000
+C1009,Miele & Cie,DE,Energy,30,100000
+C1010,Stihl AG,DE,Automotive,45,500000
+C1011,Vaillant Group,DE,Energy,30,250000
+C1012,Wago GmbH,DE,Industrial,30,250000
+C1013,Heraeus Holding,DE,Industrial,60,100000
+C1014,Dürr Systems,DE,Energy,30,500000
+C1015,Jungheinrich AG,DE,Industrial,30,250000
+C1016,Atlas Copco Holland,NL,Automotive,60,250000
+C1017,Sandvik Sweden,SE,Agriculture,30,100000
+C1018,ABB Schweiz,CH,Agriculture,60,100000
+C1019,Voestalpine Austria,AT,Agriculture,60,100000
+C1020,Tata Steel UK,UK,Automotive,45,100000
+C1021,Komatsu Europe,BE,Agriculture,30,500000
+C1022,Caterpillar France,FR,Automotive,60,250000
+C1023,Fiat Industrial,IT,Agriculture,45,250000
+C1024,Skoda Machinery,CZ,Agriculture,30,500000
+C1025,Metso Finland,FI,Energy,60,500000
