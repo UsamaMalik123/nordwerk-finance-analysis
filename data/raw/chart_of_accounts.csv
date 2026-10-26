@@ -1,0 +1,19 @@
+account_no,account_name,account_group,statement
+4000,Revenue - Machine Sales,Revenue,P&L
+4100,Revenue - Spare Parts,Revenue,P&L
+4200,Revenue - Service Contracts,Revenue,P&L
+4900,Sales Discounts,Revenue,P&L
+5000,Raw Materials,COGS,P&L
+5100,Purchased Components,COGS,P&L
+5200,Freight In,COGS,P&L
+6000,Salaries,Personnel,P&L
+6100,Social Security Contributions,Personnel,P&L
+6200,Rent,OPEX,P&L
+6300,Utilities,OPEX,P&L
+6400,Marketing & Advertising,OPEX,P&L
+6500,Travel Expenses,OPEX,P&L
+6600,IT & Software,OPEX,P&L
+6700,Consulting & Legal,OPEX,P&L
+6800,Office Supplies,OPEX,P&L
+6900,Depreciation,OPEX,P&L
+7000,Interest Expense,Financial,P&L
